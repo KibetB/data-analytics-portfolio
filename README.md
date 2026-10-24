@@ -12,20 +12,6 @@ Three end-to-end projects covering SQL, Python machine learning, R visualisation
 
 ---
 
-## Resume bullets 
-
-**Mobile-loan default prediction (SQL, Python)**
-- Designed a 3-table SQLite database (124K rows) and wrote SQL using CTEs, JOINs and leakage-safe window functions to engineer 17 borrower-risk features.
-- Built and compared logistic regression and gradient boosting models with out-of-time validation (ROC-AUC 0.775); a top-20% review rule catches 54% of defaults at 2.7x the base default rate.
-
-**Kenya economic dashboard (R)**
-- Built a six-panel ggplot2/patchwork dashboard from World Bank WDI data (2000–2025) combining LOESS smoothing, log-linear trend regression, target-band highlighting and a connected-scatter growth-inflation path.
-
-**Survey analysis case study (SPSS)**
-- Analysed a 600-respondent financial-inclusion survey in SPSS syntax: reliability (α = .91), factor analysis, χ², t-tests, ANOVA with Tukey post-hoc, logistic and linear regression with robust standard errors.
-- Identified a data-quality issue (un-reversed item cutting α from .91 to .44) and turned findings into five product recommendations for a SACCO.
-
----
 
 ## Data honesty
 
