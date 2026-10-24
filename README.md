@@ -12,7 +12,7 @@ Three end-to-end projects covering SQL, Python machine learning, R visualisation
 
 ---
 
-## Resume bullets (copy and adapt)
+## Resume bullets 
 
 **Mobile-loan default prediction (SQL, Python)**
 - Designed a 3-table SQLite database (124K rows) and wrote SQL using CTEs, JOINs and leakage-safe window functions to engineer 17 borrower-risk features.
