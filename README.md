@@ -21,7 +21,7 @@ Three end-to-end projects covering SQL, Python machine learning, R visualisation
 ## Repository layout
 
 ```
-01_sql_python_loan_default/   sql/ src/ data/ outputs/
-02_r_kenya_economy/           data/ kenya_dashboard.R output/
-03_spss_survey_case_study/    data/ spss/ src/ outputs/ CASE_STUDY.md/.pdf
+kibetb_sql_python_loan_default/   sql/ src/ data/ outputs/
+kibetb_r_kenya_economy/           data/ kenya_dashboard.R output/
+kibetb_spss_survey_case_study/    data/ spss/ src/ outputs/ CASE_STUDY.md/.pdf
 ```
