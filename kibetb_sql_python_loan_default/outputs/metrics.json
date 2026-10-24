@@ -1,0 +1,31 @@
+{
+  "models": {
+    "Logistic Regression": {
+      "roc_auc": 0.7747,
+      "pr_auc": 0.3295
+    },
+    "Gradient Boosting": {
+      "roc_auc": 0.7571,
+      "pr_auc": 0.2921
+    }
+  },
+  "best_model": "Logistic Regression",
+  "review_threshold_prob": 0.5456,
+  "share_of_defaults_caught_top20pct": 0.5422,
+  "precision_at_threshold": 0.1899,
+  "train_rows": 10158,
+  "test_rows": 2370,
+  "test_default_rate": 0.07,
+  "top_features": {
+    "prior_defaults": 0.0966,
+    "prior_loans": 0.0283,
+    "months_on_network": 0.027,
+    "loan_to_income": 0.0211,
+    "occupation": 0.0203,
+    "tx_count": 0.0082,
+    "term_days": 0.0054,
+    "age": 0.0041,
+    "deposits_to_income": 0.0026,
+    "monthly_income_kes": 0.0025
+  }
+}

@@ -1,0 +1,5 @@
+loan_to_income_band,loans,default_rate_pct
+1. <25% of income,5606,6.2
+2. 25-50%,4439,8.0
+3. 50-100%,2258,11.7
+4. >100% of income,225,21.8
